@@ -1,6 +1,6 @@
-### Hi there👋
+### Hi there I'm Erik👋
 
-  I'm Erik Modica, a passionate Web Developer who has just recently joined the community.  I graduated from Learning Fuze, a coding bootcamp in SoCal, in April of this year and would love to put my new skills to the test.  
+  A passionate Web Developer who has just recently joined the community.  I graduated from Learning Fuze, a coding bootcamp in SoCal, in April of this year and would love to put       my new skills to the test.  
   
   Tools I use for coding are: 
     JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL, Figma, Visual Studio Code, npm, Webpack
