@@ -1,5 +1,4 @@
-![ERIK MODICA](https://user-images.githubusercontent.com/76715055/115617930-db277880-a2a6-11eb-8e3b-a1096c5ba1e8.png)
-
+![ERIK MODICA (1)](https://user-images.githubusercontent.com/76715055/115618273-51c47600-a2a7-11eb-801b-5ed280991001.png)
 
 ### Hi there I'm Erik👋
 
