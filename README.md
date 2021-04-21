@@ -2,7 +2,7 @@
 
 ### Hi there I'm Erik👋
 
-  A passionate Web Developer who has just recently joined the community.  I graduated from Learning Fuze, a coding bootcamp in SoCal, in April of this year and would love to put       my new skills to the test.  
+  I am passionate Web Developer who has just recently joined the community.  I graduated from Learning Fuze, a coding bootcamp in SoCal, in April of this year and would love to put my new skills to the test.  
   
   
   Tools I use for coding are: 
